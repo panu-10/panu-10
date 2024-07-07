@@ -1,5 +1,4 @@
-<p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFtMzZtcDhrd3gxZmQxNWVwdGJ5b20xdW9hazU2ODd3ZG02MWtrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.webp" alt="MasterHead">
+
 </p>
 <h1 align="center">Hi 👋, I'm Pranav Pawar</h1>
 <h3 align="center">A Competitive Programming Enthusiast and a Full Stack Developer</h3>
