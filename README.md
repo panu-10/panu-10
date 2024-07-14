@@ -33,6 +33,15 @@
   <a href="https://linkedin.com/in/panu10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://leetcode.com/u/panu_10" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+  </a>
+    <a href="https://www.codechef.com/users/panu_03" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://codeforces.com/profile/pranavp_10" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
