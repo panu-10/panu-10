@@ -14,7 +14,7 @@
 <div align="left">
  
 
-->🔭 I’m currently a Final Year Student **at Sies GST.**
+->🔭 I’m currently a Final Year Student **at SIES GST.**
 
  ->🌱 I’m currently learning **DevOps**
 
